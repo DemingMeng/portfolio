@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5b95c36a.chunk.css",
+    "main.js": "./static/js/main.41961baa.chunk.js",
+    "main.js.map": "./static/js/main.41961baa.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2e4c1aff.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2e4c1aff.js.map",
+    "static/js/2.2a579060.chunk.js": "./static/js/2.2a579060.chunk.js",
+    "static/js/2.2a579060.chunk.js.map": "./static/js/2.2a579060.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5b95c36a.chunk.css.map": "./static/css/main.5b95c36a.chunk.css.map",
+    "static/js/2.2a579060.chunk.js.LICENSE.txt": "./static/js/2.2a579060.chunk.js.LICENSE.txt",
+    "static/media/banner-bg.cc1273af.png": "./static/media/banner-bg.cc1273af.png",
+    "static/media/fashionscreenshot1.6722b912.png": "./static/media/fashionscreenshot1.6722b912.png",
+    "static/media/forumscreenshot1.881e38e7.png": "./static/media/forumscreenshot1.881e38e7.png",
+    "static/media/madison-1809576.c32f16cf.jpg": "./static/media/madison-1809576.c32f16cf.jpg",
+    "static/media/meter1.c4085ff8.svg": "./static/media/meter1.c4085ff8.svg",
+    "static/media/meter2.1b8f416e.svg": "./static/media/meter2.1b8f416e.svg",
+    "static/media/meter3.2201f7e4.svg": "./static/media/meter3.2201f7e4.svg",
+    "static/media/screenshot3.ccd57b25.png": "./static/media/screenshot3.ccd57b25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4c1aff.js",
+    "static/js/2.2a579060.chunk.js",
+    "static/css/main.5b95c36a.chunk.css",
+    "static/js/main.41961baa.chunk.js"
+  ]
+}
